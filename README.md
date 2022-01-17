@@ -2,11 +2,9 @@
 
 <img src="./assets/python-logo.png" align="right" width="125" />
 
-## Implementation of Data Structures in Python!
+Implementation of Data Structures in Python!
 
-<br>
-
-**Data Structures:**
+### **Data Structures:**
 
 -   Arrays
 -   Linked Lists
